@@ -1,2 +1,2 @@
-# Wine-Quality-Prediction-Machine-Learning
-Predicting Wine Quality Using Machine Learning
+# Wine-quality-prediction-machine-learning
+Predicting wine quality using machine learning
